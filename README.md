@@ -10,5 +10,4 @@ de caldera para linux. Cabe decir que el la calefaccion se puede controlar media
 ![web](https://github.com/user-attachments/assets/e8836bef-aa91-4814-b80c-3518f64870a0)
 ![EquiposConectados](https://github.com/user-attachments/assets/ad36f574-1864-4988-8609-88dab7e62af8)
 ![direccionIp](https://github.com/user-attachments/assets/061cee32-b1dc-46ee-8263-4cec772a7dae)
-![web](https://github.com/user-attachments/assets/0673c63a-9619-409d-906c-9e43dc2b456b)
 ![temperaturas](https://github.com/user-attachments/assets/8376f271-106f-469f-a199-72fea9ba2220)
