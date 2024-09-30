@@ -1,0 +1,1 @@
+estos archivos son de la pagina web y se deben colocar dentro del servidor apache

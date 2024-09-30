@@ -1,0 +1,1 @@
+esta carpeta debe ir en la ruta C:/   del servidor de casa donde se toma la temperatura
